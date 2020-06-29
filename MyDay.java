@@ -1,4 +1,4 @@
-package Section3;
+package Section4;
 
 public class MyDay implements Comparable<MyDay> {
     public MyDate2 date;
