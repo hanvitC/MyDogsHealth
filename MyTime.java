@@ -1,4 +1,4 @@
-package Section3;
+package Section4;
 
 public class MyTime {
     String time;
